@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuadB-tech-todo-app-project/static/css/main.f91aec8d.css",
+    "main.js": "/QuadB-tech-todo-app-project/static/js/main.2e4269d5.js",
+    "index.html": "/QuadB-tech-todo-app-project/index.html",
+    "main.f91aec8d.css.map": "/QuadB-tech-todo-app-project/static/css/main.f91aec8d.css.map",
+    "main.2e4269d5.js.map": "/QuadB-tech-todo-app-project/static/js/main.2e4269d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91aec8d.css",
+    "static/js/main.2e4269d5.js"
+  ]
+}
