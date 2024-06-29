@@ -117,3 +117,45 @@ button.delete-btn {
     padding: 10px;
   }
 }
+
+@media (max-width: 400px) {
+  .container {
+    height: 50vh;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .todoForm {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  input {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 100%;
+    margin: 5px 0;
+  }
+  button.edit-btn {
+    width: 100%;
+    margin: 5px 0;
+    padding:5px;
+    
+  }
+  
+  button.delete-btn {
+    width: 90%;
+    margin: 5px 1px;
+    padding:5px;
+  }
+
+  .singleTodo {
+    width: 64%;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+  }
+}

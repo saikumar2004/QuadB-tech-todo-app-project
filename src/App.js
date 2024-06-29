@@ -10,6 +10,7 @@ const App = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+   
 
     if (editId) {
       const editTodo = todos.find((i) => i.id === editId);
